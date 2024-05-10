@@ -152,7 +152,7 @@ body{
     font-size: small;
 }
 
-@media (max-width:1080px){
+@media (max-width:600px){
     .hero-img{
         width:100%;
     }
