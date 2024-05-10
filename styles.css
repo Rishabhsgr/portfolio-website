@@ -11,6 +11,9 @@
     margin-right: 10%;
 }
 
+.hero-img{
+    width: 50%;
+}
 .hero{
     margin-top: 100px;
     display: flex;
@@ -58,7 +61,7 @@ h2{
 }
 
 .work{
-    margin-left: 12%;
+    margin-left: 15%;
     margin-bottom: 60px;
 }
 .project{
