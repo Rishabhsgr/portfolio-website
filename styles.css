@@ -63,7 +63,7 @@ h2{
 }
 .project{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 350fr));
+    grid-template-columns: repeat(auto-fill, minmax(220px, 350fr));
     gap: 20px;
 
 }
